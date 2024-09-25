@@ -30,7 +30,7 @@ c) Descartes)
 criaCartao(
     'conhecimento geral',
     ' De onde é a invenção do chuveiro elétrico?
-
+)
 c) Brasil
 )
 criaCartao(
@@ -45,7 +45,7 @@ criaCartao(
 criaCartao(
     'SQual o número mínimo de jogadores em cada time numa partida de futebol?'
     ' 7.'
-
+)
 criaCartao(
     ' Quais as duas datas que são comemoradas em novembro?',
     'Proclamação da República e Dia Nacional da Consciência Negra'
