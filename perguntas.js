@@ -26,16 +26,16 @@ criaCartao(
 criaCartao(
     'Conhecimento geral',
     'De quem é a famosa frase “Penso, logo existo”?´
-     Descartes
+     'Descartes'
 )
 criaCartao(
     'conhecimento geral',
     ' De onde é a invenção do chuveiro elétrico
-     Brasil
+     'Brasil'
 )
 criaCartao(
     'Quais o menor e o maior país do mundo?
-    Vaticano e Rússia
+    'Vaticano e Rússia'
 )
 criaCartao(
     'conhecimento geral',
