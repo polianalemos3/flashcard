@@ -7,7 +7,7 @@ criaCartao(
 criaCartao(
     'Matemática',
     'Quanto é 6*6 ',
-    '36'
+    '36.'
 )
 
 criaCartao(
