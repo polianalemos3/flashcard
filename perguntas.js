@@ -53,7 +53,7 @@ criaCartao(
 
 criaCartao(
  'Conhecimento geral',
-    'Qual o número mínimo de jogadores em cada time numa partida de futebol?',
+    'Qual o número mínimo de jogadores em cada time em uma partida de futebol?',
     ' 7.'
 )
 
