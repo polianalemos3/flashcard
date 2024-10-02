@@ -4,13 +4,13 @@ criaCartao(
     'Foi o Presidente do Brasil em 1951'
 )
 
-CriaCartao(
+criaCartao(
     'Matemática',
     'Quanto é 6*6 ',
     '36'
 )
 
-CriaCartao(
+criaCartao(
     'Lingua Espanhola',
     'Como se fala oi tudo bem?',
     'Ola, que tal?'
