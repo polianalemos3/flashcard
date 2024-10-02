@@ -3,12 +3,12 @@ criaCartao(
     'Quem foi Getúlio Vargas?',
     'Foi o Presidente do Brasil em 1951'
 )
-criaCartao(
+CriaCartao(
     'Matemática',
     'Quanto é 6*6 ',
     '36'
 )
-criaCartao(
+CriaCartao(
     'Lingua Espanhola',
     'Como se fala oi tudo bem?',
     'Ola, que tal?'
