@@ -35,7 +35,7 @@ criaCartao(
 )
 
 criaCartao(
-    'conhecimento geral',
+    'Conhecimento geral',
     ' De onde é a invenção do chuveiro elétrico',
      'Brasil'
 )
@@ -46,17 +46,19 @@ criaCartao(
 )
 
 criaCartao(
-    'conhecimento geral',
+    'Conhecimento geral',
     ' Qual o nome do presidente do Brasil que ficou conhecido como Jango?',
     'João Goulart'
 )
 
 criaCartao(
-    'SQual o número mínimo de jogadores em cada time numa partida de futebol?',
+ 'Conhecimento geral',
+    'Qual o número mínimo de jogadores em cada time numa partida de futebol?',
     ' 7.'
 )
 
 criaCartao(
-    ' Quais as duas datas que são comemoradas em novembro?',
+    'Conhecimento geral',
+    ' Quais as duas datas que são comemoradas em novembro?', 
     'Proclamação da República e Dia Nacional da Consciência Negra'
 )
